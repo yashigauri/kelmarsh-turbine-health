@@ -1,0 +1,299 @@
+,present_in_block_pct,present_outside_pct
+Wind speed (m/s),100.0,99.8
+"Wind speed, Standard deviation (m/s)",0.0,99.8
+"Wind speed, Minimum (m/s)",0.0,99.8
+"Wind speed, Maximum (m/s)",0.0,99.8
+Long Term Wind (m/s),100.0,100.0
+Wind speed Sensor 1 (m/s),98.0,99.7
+"Wind speed Sensor 1, Standard deviation (m/s)",0.0,99.7
+"Wind speed Sensor 1, Minimum (m/s)",0.0,98.7
+"Wind speed Sensor 1, Maximum (m/s)",0.0,99.7
+Wind speed Sensor 2 (m/s),100.0,99.8
+"Wind speed Sensor 2, Standard deviation (m/s)",0.0,99.8
+"Wind speed Sensor 2, Minimum (m/s)",0.0,99.8
+"Wind speed Sensor 2, Maximum (m/s)",0.0,99.8
+Density adjusted wind speed (m/s),0.0,99.8
+Wind direction (°),100.0,99.8
+Nacelle position (°),100.0,99.8
+"Wind direction, Standard deviation (°)",0.0,99.8
+"Wind direction, Minimum (°)",0.0,99.8
+"Wind direction, Maximum (°)",0.0,99.8
+"Nacelle position, Standard deviation (°)",0.0,99.8
+"Nacelle position, Minimum (°)",0.0,99.8
+"Nacelle position, Maximum (°)",0.0,99.8
+Vane position 1+2 (°),0.0,99.8
+"Vane position 1+2, Max (°)",0.0,0.0
+"Vane position 1+2, Min (°)",0.0,0.0
+"Vane position 1+2, StdDev (°)",0.0,0.0
+Energy Export (kWh),100.0,100.0
+Energy Export counter (kWh),0.0,91.2
+Energy Import (kWh),100.0,99.6
+Energy Import counter (kWh),0.0,3.7
+Lost Production (Contractual) (kWh),100.0,100.0
+Lost Production (Time-based IEC B.2.2) (kWh),100.0,100.0
+Lost Production (Time-based IEC B.2.3) (kWh),100.0,100.0
+Lost Production (Time-based IEC B.2.4) (kWh),100.0,99.7
+Lost Production (Time-based IEC B.3.2) (kWh),100.0,99.8
+Lost Production (Production-based IEC B.2.2) (kWh),100.0,100.0
+Lost Production (Production-based IEC B.2.3) (kWh),66.2,88.4
+Lost Production (Production-based IEC B.3.2) (kWh),100.0,99.8
+Energy Budget - Default (kWh),100.0,100.0
+Energy Theoretical (kWh),100.0,100.0
+Lost Production to Downtime (kWh),100.0,100.0
+Lost Production to Performance (kWh),100.0,99.8
+Lost Production Total (kWh),100.0,100.0
+Lost Production to Curtailment (Total) (kWh),100.0,100.0
+Lost Production to Curtailment (Grid) (kWh),100.0,100.0
+Lost Production to Curtailment (Noise) (kWh),100.0,100.0
+Lost Production to Curtailment (Shadow) (kWh),100.0,100.0
+Lost Production to Curtailment (Bats) (kWh),100.0,100.0
+Lost Production to Curtailment (Birds) (kWh),100.0,100.0
+Lost Production to Curtailment (Ice) (kWh),100.0,100.0
+Lost Production to Curtailment (Sector Management) (kWh),100.0,100.0
+Lost Production to Curtailment (Technical) (kWh),100.0,100.0
+Lost Production to Curtailment (Marketing) (kWh),100.0,100.0
+Lost Production to Curtailment (Boat Action) (kWh),100.0,100.0
+Compensated Lost Production (kWh),100.0,100.0
+Virtual Production (kWh),100.0,100.0
+Lost Production to Curtailment (Grid Constraint) (kWh),100.0,100.0
+Lost Production to Downtime and Curtailment Total (kWh),100.0,100.0
+Lost Production (Contractual Global) (kWh),0.0,0.0
+Lost Production (Contractual Custom) (kWh),0.0,0.0
+Power (kW),100.0,99.8
+Potential power default PC (kW),100.0,99.8
+"Power, Standard deviation (kW)",0.0,99.8
+"Power, Minimum (kW)",0.0,99.8
+"Power, Maximum (kW)",0.0,99.8
+Potential power learned PC (kW),100.0,99.8
+Potential power reference turbines (kW),100.0,100.0
+Cascading potential power (kW),100.0,100.0
+Cascading potential power for performance (kW),100.0,99.8
+Potential power met mast anemometer (kW),0.0,0.0
+Potential power primary reference turbines (kW),99.9,99.9
+Potential power secondary reference turbines (kW),100.0,99.6
+Turbine Power setpoint (kW),0.0,99.8
+Potential power estimated (kW),0.0,0.2
+Potential power MPC (kW),100.0,99.8
+Potential power met mast anemometer MPC (kW),0.0,0.0
+"Turbine Power setpoint, Max (kW)",0.0,0.0
+"Turbine Power setpoint, Min (kW)",0.0,0.0
+"Turbine Power setpoint, StdDev (kW)",0.0,0.0
+Available Capacity for Production (kW),100.0,100.0
+Available Capacity for Production (Planned) (kW),100.0,100.0
+Power factor (cosphi),100.0,99.8
+"Power factor (cosphi), Max",0.0,99.8
+"Power factor (cosphi), Min",0.0,99.8
+"Power factor (cosphi), Standard deviation",0.0,99.8
+Reactive power (kvar),100.0,99.8
+"Reactive power, Max (kvar)",0.0,99.8
+"Reactive power, Min (kvar)",0.0,99.8
+"Reactive power, Standard deviation (kvar)",0.0,99.8
+Front bearing temperature (°C),0.0,99.8
+Rear bearing temperature (°C),0.0,99.8
+Stator temperature 1 (°C),100.0,99.8
+Nacelle ambient temperature (°C),0.0,99.8
+Nacelle temperature (°C),0.0,99.8
+Transformer temperature (°C),0.0,99.8
+Gear oil inlet temperature (°C),0.0,99.8
+Generator bearing rear temperature (°C),100.0,99.8
+Generator bearing front temperature (°C),100.0,99.8
+Gear oil temperature (°C),0.0,99.8
+Temp. top box (°C),100.0,99.8
+Hub temperature (°C),100.0,99.8
+Ambient temperature (converter) (°C),100.0,99.8
+Rotor bearing temp (°C),100.0,99.8
+Transformer cell temperature (°C),0.0,99.8
+"Front bearing temperature, Max (°C)",0.0,99.8
+"Front bearing temperature, Min (°C)",0.0,99.8
+"Front bearing temperature, Standard deviation (°C)",0.0,99.8
+"Rear bearing temperature, Max (°C)",0.0,99.8
+"Rear bearing temperature, Min (°C)",0.0,99.8
+"Rear bearing temperature, Standard deviation (°C)",0.0,99.8
+Temperature motor axis 1 (°C),100.0,99.8
+Temperature motor axis 2 (°C),100.0,99.8
+Temperature motor axis 3 (°C),100.0,99.8
+CPU temperature (°C),100.0,99.8
+"Nacelle temperature, Max (°C)",0.0,99.8
+"Nacelle temperature, Min (°C)",0.0,99.8
+"Generator bearing front temperature, Max (°C)",0.0,99.8
+"Generator bearing front temperature, Min (°C)",0.0,99.8
+"Generator bearing rear temperature, Max (°C)",0.0,99.8
+"Generator bearing rear temperature, Min (°C)",0.0,99.8
+"Generator bearing front temperature, Std (°C)",0.0,79.1
+"Generator bearing rear temperature, Std (°C)",0.0,79.1
+"Nacelle temperature, Standard deviation (°C)",0.0,53.7
+"Gear oil temperature, Max (°C)",0.0,52.3
+"Gear oil temperature, Min (°C)",0.0,52.3
+"Gear oil temperature, Standard deviation (°C)",0.0,52.3
+"Hub temperature, min (°C)",0.0,51.7
+"Hub temperature, max (°C)",0.0,51.7
+"Hub temperature, standard deviation (°C)",0.0,51.7
+"Ambient temperature (converter), Max (°C)",0.0,0.0
+"Ambient temperature (converter), Min (°C)",0.0,0.0
+"Ambient temperature (converter), StdDev (°C)",0.0,0.0
+"Gear oil inlet temperature, Max (°C)",0.0,0.0
+"Gear oil inlet temperature, Min (°C)",0.0,0.0
+"Gear oil inlet temperature, StdDev (°C)",0.0,0.0
+"Nacelle ambient temperature, Max (°C)",0.0,0.0
+"Nacelle ambient temperature, Min (°C)",0.0,0.0
+"Nacelle ambient temperature, StdDev (°C)",0.0,0.0
+"Rotor bearing temp, Max (°C)",0.0,0.0
+"Rotor bearing temp, Min (°C)",0.0,0.0
+"Rotor bearing temp, StdDev (°C)",0.0,0.0
+"CPU temperature, Max (°C)",0.0,0.0
+"CPU temperature, Min (°C)",0.0,0.0
+"CPU temperature, StdDev (°C)",0.0,0.0
+"Transformer cell temperature, Max (°C)",0.0,0.0
+"Transformer cell temperature, Min (°C)",0.0,0.0
+"Transformer cell temperature, StdDev (°C)",0.0,0.0
+"Transformer temperature, Max (°C)",0.0,0.0
+"Transformer temperature, Min (°C)",0.0,0.0
+"Transformer temperature, StdDev (°C)",0.0,0.0
+"Stator temperature 1, Max (°C)",0.0,0.0
+"Stator temperature 1, Min (°C)",0.0,0.0
+"Stator temperature 1, StdDev (°C)",0.0,0.0
+"Temp. top box, Max (°C)",0.0,0.0
+"Temp. top box, Min (°C)",0.0,0.0
+"Temp. top box, StdDev (°C)",0.0,0.0
+"Temperature motor axis 1, Max (°C)",0.0,0.0
+"Temperature motor axis 1, Min (°C)",0.0,0.0
+"Temperature motor axis 1, StdDev (°C)",0.0,0.0
+"Temperature motor axis 2, Max (°C)",0.0,0.0
+"Temperature motor axis 2, Min (°C)",0.0,0.0
+"Temperature motor axis 2, StdDev (°C)",0.0,0.0
+"Temperature motor axis 3, Max (°C)",0.0,0.0
+"Temperature motor axis 3, Min (°C)",0.0,0.0
+"Temperature motor axis 3, StdDev (°C)",0.0,0.0
+Voltage L1 / U (V),0.0,99.8
+Voltage L2 / V (V),0.0,99.8
+Voltage L3 / W (V),0.0,99.8
+Grid voltage (V),100.0,99.8
+"Grid voltage, Max (V)",0.0,99.8
+"Grid voltage, Min (V)",0.0,99.8
+"Grid voltage, Standard deviation (V)",0.0,99.8
+"Voltage L1 / U, Min (V)",0.0,51.7
+"Voltage L1 / U, Max (V)",0.0,51.7
+"Voltage L1 / U, Standard deviation (V)",0.0,51.7
+"Voltage L2 / V, Min (V)",0.0,51.7
+"Voltage L2 / V, Max (V)",0.0,51.7
+"Voltage L2 / V, Standard deviation (V)",0.0,51.7
+"Voltage L3 / W, Min (V)",0.0,51.7
+"Voltage L3 / W, Max (V)",0.0,51.7
+"Voltage L3 / W, Standard deviation (V)",0.0,51.7
+Current L1 / U (A),0.0,99.8
+Current L2 / V (A),0.0,99.8
+Current L3 / W (A),0.0,99.8
+Grid current (A),100.0,99.8
+Motor current axis 1 (A),100.0,99.8
+Motor current axis 2 (A),100.0,99.8
+Motor current axis 3 (A),100.0,99.8
+"Current L1 / U, min (A)",0.0,99.8
+"Current L1 / U, max (A)",0.0,99.8
+"Current L1 / U, StdDev (A)",0.0,99.8
+"Current L2 / V, max (A)",0.0,52.3
+"Current L3 / W, max (A)",0.0,52.3
+"Current L2 / V, min (A)",0.0,51.7
+"Current L2 / V, StdDev (A)",0.0,51.7
+"Current L3 / W, min (A)",0.0,51.7
+"Current L3 / W, StdDev (A)",0.0,51.7
+"Grid current, Max (A)",0.0,0.0
+"Grid current, Min (A)",0.0,0.0
+"Grid current, StdDev (A)",0.0,0.0
+"Motor current axis 1, Max (A)",0.0,0.0
+"Motor current axis 1, Min (A)",0.0,0.0
+"Motor current axis 1, StdDev (A)",0.0,0.0
+"Motor current axis 2, Max (A)",0.0,0.0
+"Motor current axis 2, Min (A)",0.0,0.0
+"Motor current axis 2, StdDev (A)",0.0,0.0
+"Motor current axis 3, Max (A)",0.0,0.0
+"Motor current axis 3, Min (A)",0.0,0.0
+"Motor current axis 3, StdDev (A)",0.0,0.0
+Rotor speed (RPM),100.0,99.8
+Generator RPM (RPM),100.0,99.8
+Gearbox speed (RPM),0.0,99.8
+"Generator RPM, Max (RPM)",0.0,99.8
+"Generator RPM, Min (RPM)",0.0,99.8
+"Generator RPM, Standard deviation (RPM)",0.0,99.8
+"Rotor speed, Max (RPM)",0.0,99.8
+"Rotor speed, Min (RPM)",0.0,99.8
+"Rotor speed, Standard deviation (RPM)",0.0,99.8
+"Gearbox speed, Max (RPM)",0.0,0.0
+"Gearbox speed, Min (RPM)",0.0,0.0
+"Gearbox speed, StdDev (RPM)",0.0,0.0
+Capacity factor,100.0,100.0
+Data Availability,100.0,100.0
+Time-based Contractual Avail.,100.0,100.0
+Time-based IEC B.2.2 (Users View),100.0,100.0
+Time-based IEC B.2.3 (Users View),100.0,100.0
+Time-based IEC B.2.4 (Users View),100.0,99.7
+Time-based IEC B.3.2 (Manufacturers View),100.0,99.8
+Production-based IEC B.2.2 (Users View),100.0,100.0
+Production-based IEC B.2.3 (Users View),66.2,88.4
+Production-based IEC B.3.2 (Manufacturers View),100.0,99.8
+Time-based System Avail.,100.0,100.0
+Production-based System Avail.,100.0,100.0
+Production-based Contractual Avail.,100.0,100.0
+Time-based System Avail. (Planned),100.0,100.0
+Production-based System Avail. (virtual),100.0,100.0
+Time-based Contractual Avail. (Global),0.0,0.0
+Time-based Contractual Avail. (Custom),0.0,0.0
+Production-based Contractual Avail. (Global),0.0,0.0
+Production-based Contractual Avail. (Custom),0.0,0.0
+Reactive Energy Export (kvarh),100.0,98.6
+Reactive Energy Export counter (kvarh),0.0,0.1
+Reactive Energy Import (kvarh),100.0,100.0
+Reactive Energy Import counter (kvarh),0.0,92.3
+Blade angle (pitch position) A (°),0.0,99.8
+Blade angle (pitch position) B (°),0.0,99.8
+Blade angle (pitch position) C (°),0.0,99.8
+Yaw bearing angle (°),0.0,99.8
+"Blade angle (pitch position) A, Max (°)",0.0,79.7
+"Blade angle (pitch position) A, Min (°)",0.0,79.7
+"Blade angle (pitch position) A, Standard deviation (°)",0.0,79.7
+"Blade angle (pitch position) B, Max (°)",0.0,79.7
+"Blade angle (pitch position) B, Min (°)",0.0,79.7
+"Blade angle (pitch position) B, Standard deviation (°)",0.0,79.7
+"Blade angle (pitch position) C, Max (°)",0.0,79.7
+"Blade angle (pitch position) C, Min (°)",0.0,79.7
+"Blade angle (pitch position) C, Standard deviation (°)",0.0,79.7
+"Yaw bearing angle, Max (°)",0.0,0.0
+"Yaw bearing angle, Min (°)",0.0,0.0
+"Yaw bearing angle, StdDev (°)",0.0,0.0
+Gear oil inlet pressure (bar),100.0,99.8
+Gear oil pump pressure (bar),100.0,99.8
+"Gear oil inlet pressure, Max (bar)",0.0,0.0
+"Gear oil inlet pressure, Min (bar)",0.0,0.0
+"Gear oil inlet pressure, StdDev (bar)",0.0,0.0
+"Gear oil pump pressure, Max (bar)",0.0,0.0
+"Gear oil pump pressure, Min (bar)",0.0,0.0
+"Gear oil pump pressure, StdDev (bar)",0.0,0.0
+Grid frequency (Hz),100.0,99.8
+"Grid frequency, Max (Hz)",0.0,79.7
+"Grid frequency, Min (Hz)",0.0,79.7
+"Grid frequency, Standard deviation (Hz)",0.0,79.7
+Equivalent Full Load Hours (s),100.0,100.0
+Equivalent Full Load Hours counter (s),0.0,0.0
+Production Factor,100.0,99.8
+Performance Index,99.7,98.9
+Apparent power (kVA),100.0,99.8
+"Apparent power, Max (kVA)",0.0,0.0
+"Apparent power, Min (kVA)",0.0,0.0
+"Apparent power, StdDev (kVA)",0.0,0.0
+Cable windings from calibration point,0.0,99.8
+Metal particle count,100.0,100.0
+Metal particle count counter,0.0,99.8
+"Cable windings from calibration point, Max",0.0,0.0
+"Cable windings from calibration point, Min",0.0,0.0
+"Cable windings from calibration point, StdDev",0.0,0.0
+Drive train acceleration (mm/ss),100.0,99.8
+Tower Acceleration X (mm/ss),0.0,99.8
+Tower Acceleration y (mm/ss),0.0,99.8
+"Tower Acceleration X, Min (mm/ss)",0.0,0.0
+"Tower Acceleration X, Max (mm/ss)",0.0,0.0
+"Tower Acceleration Y, Min (mm/ss)",0.0,0.0
+"Tower Acceleration Y, Max (mm/ss)",0.0,0.0
+"Drive train acceleration, Max (mm/ss)",0.0,0.0
+"Drive train acceleration, Min (mm/ss)",0.0,0.0
+"Drive train acceleration, StdDev (mm/ss)",0.0,0.0
+"Tower Acceleration X, StdDev (mm/ss)",0.0,0.0
+"Tower Acceleration Y, StdDev (mm/ss)",0.0,0.0

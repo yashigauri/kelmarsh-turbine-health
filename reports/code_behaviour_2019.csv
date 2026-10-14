@@ -1,0 +1,37 @@
+Status,Code,Message,windows,turbines,mean_ratio,pct_not_producing,windows_without_stop,pct_not_producing_excl_stop
+Communication,9997,Data communication unavailable,466,6,0.968480816452732,1.2875536480686696,462,0.4329004329004329
+Informational,0,System OK,3,1,0.9512727625130887,0.0,3,0.0
+Informational,2910,Manual operation generator fan 1,51,2,-0.0016459796551262066,100.0,1,100.0
+Informational,3835,Cable panel breaker open,23,1,1.028344302050359,0.0,23,0.0
+Informational,6410,Manual yaw,528,6,-0.0021963894528041258,100.0,2,100.0
+Informational,6542,Reset of icing st. cd. possible,28,1,-0.002382078324306863,100.0,0,
+Stop,20,Manual stop - on site,398,6,-0.0020789298181441195,100.0,0,
+Stop,21,Manual stop - remote,78,2,-0.003285252395092525,100.0,0,
+Stop,25,Manual stop without login,51,6,-0.002075955517682773,100.0,0,
+Stop,210,Manual brake,1,1,-0.0021994533146561393,100.0,0,
+Stop,700,Batt. undervoltage/overvoltage,62,1,-0.001955789527562406,100.0,0,
+Stop,710,Battery test,3,1,-0.00463854659238078,100.0,0,
+Stop,815,Rotor overspeed nacelle,1,1,-0.0017922817878900357,100.0,0,
+Stop,2810,Service generator brushes,49,2,-0.0012486822135443125,100.0,0,
+Stop,3000,Frequency converter not ready,47,2,-0.003405757836204765,100.0,0,
+Stop,3125,Timeout ready for connection,148,2,-0.00157808682083913,100.0,0,
+Stop,3570,Grid error,1,1,0.0,100.0,0,
+Stop,4510,Tower oscillation Y level 1,5,3,-0.0014970343286885997,100.0,0,
+Stop,4530,Tower oscillation Y level 2,2,2,-0.001142227266650463,100.0,0,
+Stop,4540,Tower oscillation X level 2,7,4,-0.0016607973958944814,100.0,0,
+Stop,6200,Cable autounwind,4,4,-0.006149011261757618,100.0,0,
+Stop,6690,Icing (stop),40,1,-0.002160747860077293,100.0,0,
+Warning,716,Battery charge cycle axis 1 error,55,6,-0.001328330592275361,100.0,0,
+Warning,717,Battery charge cycle axis 2 error,55,6,-0.001328330592275361,100.0,0,
+Warning,718,Battery charge cycle axis 3 error,55,6,-0.001328330592275361,100.0,0,
+Warning,785,Error brake resistor CHP,12,2,1.0057747222521238,0.0,12,0.0
+Warning,1860,Oil filter gear choked,5358,1,1.0048831893303742,0.16797312430011196,5355,0.11204481792717086
+Warning,2000,Brake pads worn,5,1,-0.0023173363397458323,100.0,0,
+Warning,2125,Timeout brake closed,257,6,-0.0019488765173625152,100.0,0,
+Warning,2550,Overload generator fan 1,165,6,-0.001845275339961193,100.0,0,
+Warning,2650,Overload generator fan 2,165,6,-0.001845275339961193,100.0,0,
+Warning,2655,Overload generator fan 3,164,6,-0.0018475659564136798,100.0,0,
+Warning,2674,Overload generator heating,116,6,-0.0017462813569975267,100.0,0,
+Warning,5000,Breakdown obstacle light,1137,1,0.9694197791196186,0.0,1137,0.0
+Warning,5720,Brake accumulator defect,75,3,-0.0027253869463801515,100.0,0,
+Warning,6682,Icing (dev. electr. power),40,1,-0.002160747860077293,100.0,0,

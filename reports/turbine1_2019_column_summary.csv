@@ -1,0 +1,300 @@
+,dtype,non_null_pct,min,mean,max
+Date and time,object,100.0,,,
+Wind speed (m/s),float64,99.8,0.134,6.073,22.266
+"Wind speed, Standard deviation (m/s)",float64,95.4,0.0,0.899,5.28
+"Wind speed, Minimum (m/s)",float64,95.4,0.032,4.425,16.998
+"Wind speed, Maximum (m/s)",float64,95.4,0.263,7.859,28.684
+Long Term Wind (m/s),float64,100.0,5.2,6.13,7.1
+Wind speed Sensor 1 (m/s),float64,99.6,0.0,6.506,23.233
+"Wind speed Sensor 1, Standard deviation (m/s)",float64,95.2,0.0,0.842,4.667
+"Wind speed Sensor 1, Minimum (m/s)",float64,94.3,0.0,5.054,17.826
+"Wind speed Sensor 1, Maximum (m/s)",float64,95.2,0.0,8.199,30.055
+Wind speed Sensor 2 (m/s),float64,99.8,0.131,6.072,22.105
+"Wind speed Sensor 2, Standard deviation (m/s)",float64,95.4,0.0,0.898,4.848
+"Wind speed Sensor 2, Minimum (m/s)",float64,95.4,0.038,4.428,16.534
+"Wind speed Sensor 2, Maximum (m/s)",float64,95.4,0.263,7.857,28.791
+Density adjusted wind speed (m/s),float64,95.4,0.132,6.145,22.218
+Wind direction (°),float64,99.8,0.007,203.893,359.996
+Nacelle position (°),float64,99.8,0.012,203.691,359.977
+"Wind direction, Standard deviation (°)",float64,95.4,0.0,9.394,96.915
+"Wind direction, Minimum (°)",float64,95.4,0.0,176.03,359.13
+"Wind direction, Maximum (°)",float64,95.4,6.018,232.982,360.0
+"Nacelle position, Standard deviation (°)",float64,95.4,0.0,1.486,92.55
+"Nacelle position, Minimum (°)",float64,95.4,0.012,202.505,359.464
+"Nacelle position, Maximum (°)",float64,95.4,0.561,208.63,359.815
+Vane position 1+2 (°),float64,95.4,-173.952,-0.083,172.331
+"Vane position 1+2, Max (°)",float64,0.0,,,
+"Vane position 1+2, Min (°)",float64,0.0,,,
+"Vane position 1+2, StdDev (°)",float64,0.0,,,
+Energy Export (kWh),float64,100.0,0.0,100.629,504.0
+Energy Export counter (kWh),float64,87.2,14954675.0,17653689.767,20243627.0
+Energy Import (kWh),float64,99.6,0.0,0.042,3.0
+Energy Import counter (kWh),float64,3.5,6679.0,7830.812,8898.0
+Lost Production (Contractual) (kWh),float64,100.0,0.0,0.38,341.04
+Lost Production (Time-based IEC B.2.2) (kWh),float64,100.0,0.0,1.169,341.04
+Lost Production (Time-based IEC B.2.3) (kWh),float64,100.0,0.0,1.169,341.04
+Lost Production (Time-based IEC B.2.4) (kWh),float64,99.7,0.0,0.857,341.04
+Lost Production (Time-based IEC B.3.2) (kWh),float64,99.8,0.0,0.247,341.04
+Lost Production (Production-based IEC B.2.2) (kWh),float64,100.0,0.0,1.169,341.04
+Lost Production (Production-based IEC B.2.3) (kWh),float64,87.4,0.0,0.978,341.04
+Lost Production (Production-based IEC B.3.2) (kWh),float64,99.8,0.0,0.247,341.04
+Energy Budget - Default (kWh),float64,100.0,65.374,97.302,135.336
+Energy Theoretical (kWh),float64,100.0,0.0,101.196,342.435
+Lost Production to Downtime (kWh),float64,100.0,0.0,1.143,341.04
+Lost Production to Performance (kWh),float64,99.8,-73.092,-0.57,154.949
+Lost Production Total (kWh),float64,100.0,-73.092,0.575,341.04
+Lost Production to Curtailment (Total) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Grid) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Noise) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Shadow) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Bats) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Birds) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Ice) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Sector Management) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Technical) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Marketing) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Curtailment (Boat Action) (kWh),float64,100.0,0.0,0.0,0.0
+Compensated Lost Production (kWh),float64,100.0,0.0,0.0,0.0
+Virtual Production (kWh),float64,100.0,0.0,100.627,504.0
+Lost Production to Curtailment (Grid Constraint) (kWh),float64,100.0,0.0,0.0,0.0
+Lost Production to Downtime and Curtailment Total (kWh),float64,100.0,0.0,1.143,341.04
+Lost Production (Contractual Global) (kWh),float64,0.0,,,
+Lost Production (Contractual Custom) (kWh),float64,0.0,,,
+Power (kW),float64,99.8,-17.846,604.466,2081.029
+Potential power default PC (kW),float64,99.8,0.0,573.399,2050.0
+"Power, Standard deviation (kW)",float64,95.4,0.0,114.242,998.066
+"Power, Minimum (kW)",float64,95.4,-73.84,421.583,2052.087
+"Power, Maximum (kW)",float64,95.4,-16.102,831.251,2228.516
+Potential power learned PC (kW),float64,99.8,0.0,607.045,2054.61
+Potential power reference turbines (kW),float64,100.0,0.0,640.985,2058.863
+Cascading potential power (kW),float64,100.0,0.0,607.179,2054.61
+Cascading potential power for performance (kW),float64,99.8,0.0,607.045,2054.61
+Potential power met mast anemometer (kW),float64,0.0,,,
+Potential power primary reference turbines (kW),float64,99.9,0.0,588.619,2061.439
+Potential power secondary reference turbines (kW),float64,99.6,0.0,686.073,2066.104
+Turbine Power setpoint (kW),float64,95.4,412.0,1336.909,2060.0
+Potential power estimated (kW),float64,0.2,-0.858,138.85,769.309
+Potential power MPC (kW),float64,99.8,0.0,573.399,2050.0
+Potential power met mast anemometer MPC (kW),float64,0.0,,,
+"Turbine Power setpoint, Max (kW)",float64,0.0,,,
+"Turbine Power setpoint, Min (kW)",float64,0.0,,,
+"Turbine Power setpoint, StdDev (kW)",float64,0.0,,,
+Available Capacity for Production (kW),float64,100.0,0.0,2032.091,2050.0
+Available Capacity for Production (Planned) (kW),int64,100.0,2050.0,2050.0,2050.0
+Power factor (cosphi),float64,99.8,-0.99,-0.688,1.0
+"Power factor (cosphi), Max",float64,95.4,-0.978,-0.56,1.0
+"Power factor (cosphi), Min",float64,95.4,-1.0,-0.795,1.0
+"Power factor (cosphi), Standard deviation",float64,95.4,0.0,0.072,0.998
+Reactive power (kvar),float64,99.8,-609.305,-195.591,2.388
+"Reactive power, Max (kvar)",float64,95.4,-599.478,-170.416,52.51
+"Reactive power, Min (kvar)",float64,95.4,-837.519,-233.271,0.0
+"Reactive power, Standard deviation (kvar)",float64,95.4,0.0,17.629,284.831
+Front bearing temperature (°C),float64,95.4,14.04,66.799,79.855
+Rear bearing temperature (°C),float64,95.4,13.13,64.865,76.015
+Stator temperature 1 (°C),float64,99.8,12.932,62.111,101.934
+Nacelle ambient temperature (°C),float64,95.4,-0.205,11.674,36.72
+Nacelle temperature (°C),float64,95.4,5.2,21.795,39.745
+Transformer temperature (°C),float64,95.4,22.105,47.821,111.41
+Gear oil inlet temperature (°C),float64,95.4,11.083,47.239,59.042
+Generator bearing rear temperature (°C),float64,99.8,11.398,40.652,70.548
+Generator bearing front temperature (°C),float64,99.8,11.258,40.081,73.837
+Gear oil temperature (°C),float64,95.4,13.85,53.416,60.11
+Temp. top box (°C),float64,99.8,11.4,27.803,41.975
+Hub temperature (°C),float64,99.8,9.0,20.007,37.0
+Ambient temperature (converter) (°C),float64,99.8,-0.572,14.061,40.573
+Rotor bearing temp (°C),float64,99.8,10.115,29.95,43.98
+Transformer cell temperature (°C),float64,95.4,3.045,16.527,40.865
+"Front bearing temperature, Max (°C)",float64,95.4,14.2,67.813,80.2
+"Front bearing temperature, Min (°C)",float64,95.4,14.0,65.729,79.5
+"Front bearing temperature, Standard deviation (°C)",float64,95.4,0.0,0.639,11.269
+"Rear bearing temperature, Max (°C)",float64,95.4,13.2,65.874,77.0
+"Rear bearing temperature, Min (°C)",float64,95.4,13.1,63.814,75.3
+"Rear bearing temperature, Standard deviation (°C)",float64,95.4,0.0,0.639,11.116
+Temperature motor axis 1 (°C),float64,99.8,11.0,38.23,81.0
+Temperature motor axis 2 (°C),float64,99.8,12.0,40.134,82.496
+Temperature motor axis 3 (°C),float64,99.8,11.0,38.005,77.0
+CPU temperature (°C),float64,99.8,23.792,56.529,70.15
+"Nacelle temperature, Max (°C)",float64,95.4,5.2,22.437,40.2
+"Nacelle temperature, Min (°C)",float64,95.4,5.2,21.154,39.1
+"Generator bearing front temperature, Max (°C)",float64,95.4,11.4,40.601,74.2
+"Generator bearing front temperature, Min (°C)",float64,95.4,11.05,39.601,73.0
+"Generator bearing rear temperature, Max (°C)",float64,95.4,11.6,40.949,70.6
+"Generator bearing rear temperature, Min (°C)",float64,95.4,11.1,40.478,70.45
+"Generator bearing front temperature, Std (°C)",float64,75.6,0.0,0.316,4.178
+"Generator bearing rear temperature, Std (°C)",float64,75.6,0.0,0.151,2.505
+"Nacelle temperature, Standard deviation (°C)",float64,51.3,0.0,0.409,3.451
+"Gear oil temperature, Max (°C)",float64,49.9,19.25,54.465,60.5
+"Gear oil temperature, Min (°C)",float64,49.9,18.4,53.297,60.0
+"Gear oil temperature, Standard deviation (°C)",float64,49.9,0.0,0.362,3.915
+"Hub temperature, min (°C)",float64,49.4,12.0,21.105,37.0
+"Hub temperature, max (°C)",float64,49.4,12.0,21.269,37.0
+"Hub temperature, standard deviation (°C)",float64,49.4,0.0,0.056,0.5
+"Ambient temperature (converter), Max (°C)",float64,0.0,,,
+"Ambient temperature (converter), Min (°C)",float64,0.0,,,
+"Ambient temperature (converter), StdDev (°C)",float64,0.0,,,
+"Gear oil inlet temperature, Max (°C)",float64,0.0,,,
+"Gear oil inlet temperature, Min (°C)",float64,0.0,,,
+"Gear oil inlet temperature, StdDev (°C)",float64,0.0,,,
+"Nacelle ambient temperature, Max (°C)",float64,0.0,,,
+"Nacelle ambient temperature, Min (°C)",float64,0.0,,,
+"Nacelle ambient temperature, StdDev (°C)",float64,0.0,,,
+"Rotor bearing temp, Max (°C)",float64,0.0,,,
+"Rotor bearing temp, Min (°C)",float64,0.0,,,
+"Rotor bearing temp, StdDev (°C)",float64,0.0,,,
+"CPU temperature, Max (°C)",float64,0.0,,,
+"CPU temperature, Min (°C)",float64,0.0,,,
+"CPU temperature, StdDev (°C)",float64,0.0,,,
+"Transformer cell temperature, Max (°C)",float64,0.0,,,
+"Transformer cell temperature, Min (°C)",float64,0.0,,,
+"Transformer cell temperature, StdDev (°C)",float64,0.0,,,
+"Transformer temperature, Max (°C)",float64,0.0,,,
+"Transformer temperature, Min (°C)",float64,0.0,,,
+"Transformer temperature, StdDev (°C)",float64,0.0,,,
+"Stator temperature 1, Max (°C)",float64,0.0,,,
+"Stator temperature 1, Min (°C)",float64,0.0,,,
+"Stator temperature 1, StdDev (°C)",float64,0.0,,,
+"Temp. top box, Max (°C)",float64,0.0,,,
+"Temp. top box, Min (°C)",float64,0.0,,,
+"Temp. top box, StdDev (°C)",float64,0.0,,,
+"Temperature motor axis 1, Max (°C)",float64,0.0,,,
+"Temperature motor axis 1, Min (°C)",float64,0.0,,,
+"Temperature motor axis 1, StdDev (°C)",float64,0.0,,,
+"Temperature motor axis 2, Max (°C)",float64,0.0,,,
+"Temperature motor axis 2, Min (°C)",float64,0.0,,,
+"Temperature motor axis 2, StdDev (°C)",float64,0.0,,,
+"Temperature motor axis 3, Max (°C)",float64,0.0,,,
+"Temperature motor axis 3, Min (°C)",float64,0.0,,,
+"Temperature motor axis 3, StdDev (°C)",float64,0.0,,,
+Voltage L1 / U (V),float64,95.4,0.0,402.349,410.527
+Voltage L2 / V (V),float64,95.4,0.0,402.851,410.981
+Voltage L3 / W (V),float64,95.4,0.0,402.928,411.285
+Grid voltage (V),float64,99.8,0.0,415.931,708.2
+"Grid voltage, Max (V)",float64,95.4,0.0,403.574,414.738
+"Grid voltage, Min (V)",float64,95.4,0.0,401.797,409.981
+"Grid voltage, Standard deviation (V)",float64,95.4,0.0,0.523,202.657
+"Voltage L1 / U, Min (V)",float64,49.4,0.0,401.436,408.323
+"Voltage L1 / U, Max (V)",float64,49.4,0.0,403.326,413.792
+"Voltage L1 / U, Standard deviation (V)",float64,49.4,0.0,0.557,202.154
+"Voltage L2 / V, Min (V)",float64,49.4,0.0,401.976,409.3
+"Voltage L2 / V, Max (V)",float64,49.4,0.0,403.788,415.045
+"Voltage L2 / V, Standard deviation (V)",float64,49.4,0.0,0.539,202.958
+"Voltage L3 / W, Min (V)",float64,49.4,0.0,402.064,408.935
+"Voltage L3 / W, Max (V)",float64,49.4,0.0,403.87,415.356
+"Voltage L3 / W, Standard deviation (V)",float64,49.4,0.0,0.536,202.865
+Current L1 / U (A),float64,95.4,3.15,550.953,1804.876
+Current L2 / V (A),float64,95.4,0.192,556.903,1809.041
+Current L3 / W (A),float64,95.4,2.977,550.43,1798.6
+Grid current (A),float64,99.8,2.172,536.484,1805.009
+Motor current axis 1 (A),float64,99.8,-0.018,0.929,7.848
+Motor current axis 2 (A),float64,99.8,0.889,1.81,8.801
+Motor current axis 3 (A),float64,99.8,-0.49,0.396,13.868
+"Current L1 / U, min (A)",float64,95.4,2.17,393.119,1781.48
+"Current L1 / U, max (A)",float64,95.4,3.345,717.967,1909.585
+"Current L1 / U, StdDev (A)",float64,95.4,0.0,91.034,874.977
+"Current L2 / V, max (A)",float64,49.9,0.385,702.34,1914.505
+"Current L3 / W, max (A)",float64,49.9,3.06,695.304,1906.24
+"Current L2 / V, min (A)",float64,49.4,0.0,380.292,1786.43
+"Current L2 / V, StdDev (A)",float64,49.4,0.192,91.897,743.694
+"Current L3 / W, min (A)",float64,49.4,1.61,374.639,1774.995
+"Current L3 / W, StdDev (A)",float64,49.4,0.082,91.482,738.522
+"Grid current, Max (A)",float64,0.0,,,
+"Grid current, Min (A)",float64,0.0,,,
+"Grid current, StdDev (A)",float64,0.0,,,
+"Motor current axis 1, Max (A)",float64,0.0,,,
+"Motor current axis 1, Min (A)",float64,0.0,,,
+"Motor current axis 1, StdDev (A)",float64,0.0,,,
+"Motor current axis 2, Max (A)",float64,0.0,,,
+"Motor current axis 2, Min (A)",float64,0.0,,,
+"Motor current axis 2, StdDev (A)",float64,0.0,,,
+"Motor current axis 3, Max (A)",float64,0.0,,,
+"Motor current axis 3, Min (A)",float64,0.0,,,
+"Motor current axis 3, StdDev (A)",float64,0.0,,,
+Rotor speed (RPM),float64,99.8,0.0,10.451,15.326
+Generator RPM (RPM),float64,99.8,-151.968,1239.955,1814.116
+Gearbox speed (RPM),float64,95.4,0.0,1261.079,1818.308
+"Generator RPM, Max (RPM)",float64,95.4,0.613,1364.501,1925.871
+"Generator RPM, Min (RPM)",float64,95.4,-583.8,1145.228,1795.925
+"Generator RPM, Standard deviation (RPM)",float64,95.4,0.0,64.674,872.079
+"Rotor speed, Max (RPM)",float64,95.4,0.0,11.516,16.313
+"Rotor speed, Min (RPM)",float64,95.4,0.0,9.643,15.234
+"Rotor speed, Standard deviation (RPM)",float64,95.4,0.0,0.551,7.251
+"Gearbox speed, Max (RPM)",float64,0.0,,,
+"Gearbox speed, Min (RPM)",float64,0.0,,,
+"Gearbox speed, StdDev (RPM)",float64,0.0,,,
+Capacity factor,float64,100.0,0.0,0.295,1.475
+Data Availability,int64,100.0,0.0,0.998,1.0
+Time-based Contractual Avail.,float64,100.0,0.0,0.997,1.0
+Time-based IEC B.2.2 (Users View),float64,100.0,0.0,0.868,1.0
+Time-based IEC B.2.3 (Users View),float64,100.0,0.0,0.991,1.0
+Time-based IEC B.2.4 (Users View),float64,99.7,0.0,0.994,1.0
+Time-based IEC B.3.2 (Manufacturers View),float64,99.8,0.0,0.998,1.0
+Production-based IEC B.2.2 (Users View),float64,100.0,0.0,0.989,1.0
+Production-based IEC B.2.3 (Users View),float64,87.4,0.0,0.99,1.0
+Production-based IEC B.3.2 (Manufacturers View),float64,99.8,0.0,0.998,1.0
+Time-based System Avail.,float64,100.0,0.0,0.991,1.0
+Production-based System Avail.,float64,100.0,0.0,0.991,1.0
+Production-based Contractual Avail.,float64,100.0,0.0,0.997,1.0
+Time-based System Avail. (Planned),int64,100.0,1.0,1.0,1.0
+Production-based System Avail. (virtual),float64,100.0,0.0,0.991,1.0
+Time-based Contractual Avail. (Global),float64,0.0,,,
+Time-based Contractual Avail. (Custom),float64,0.0,,,
+Production-based Contractual Avail. (Global),float64,0.0,,,
+Production-based Contractual Avail. (Custom),float64,0.0,,,
+Reactive Energy Export (kvarh),float64,98.7,0.0,0.001,1.0
+Reactive Energy Export counter (kvarh),float64,0.1,135948.0,135980.81,136010.0
+Reactive Energy Import (kvarh),float64,100.0,0.0,32.541,145.0
+Reactive Energy Import counter (kvarh),float64,88.2,4691468.0,5563794.543,6401776.0
+Blade angle (pitch position) A (°),float64,95.4,0.0,4.954,92.53
+Blade angle (pitch position) B (°),float64,95.4,0.0,4.967,99.379
+Blade angle (pitch position) C (°),float64,95.4,0.0,4.967,97.545
+Yaw bearing angle (°),float64,95.4,0.012,205.616,359.977
+"Blade angle (pitch position) A, Max (°)",float64,76.1,0.0,6.722,197.58
+"Blade angle (pitch position) A, Min (°)",float64,76.1,0.0,3.864,92.53
+"Blade angle (pitch position) A, Standard deviation (°)",float64,76.1,0.0,1.021,62.671
+"Blade angle (pitch position) B, Max (°)",float64,76.1,0.0,6.736,243.06
+"Blade angle (pitch position) B, Min (°)",float64,76.1,0.0,3.88,92.66
+"Blade angle (pitch position) B, Standard deviation (°)",float64,76.1,0.0,1.02,45.295
+"Blade angle (pitch position) C, Max (°)",float64,76.1,0.0,6.736,235.59
+"Blade angle (pitch position) C, Min (°)",float64,76.1,0.0,3.88,93.18
+"Blade angle (pitch position) C, Standard deviation (°)",float64,76.1,0.0,1.019,45.666
+"Yaw bearing angle, Max (°)",float64,0.0,,,
+"Yaw bearing angle, Min (°)",float64,0.0,,,
+"Yaw bearing angle, StdDev (°)",float64,0.0,,,
+Gear oil inlet pressure (bar),float64,99.8,-1.773,113.433,313.787
+Gear oil pump pressure (bar),float64,99.8,0.14,517.766,1225.555
+"Gear oil inlet pressure, Max (bar)",float64,0.0,,,
+"Gear oil inlet pressure, Min (bar)",float64,0.0,,,
+"Gear oil inlet pressure, StdDev (bar)",float64,0.0,,,
+"Gear oil pump pressure, Max (bar)",float64,0.0,,,
+"Gear oil pump pressure, Min (bar)",float64,0.0,,,
+"Gear oil pump pressure, StdDev (bar)",float64,0.0,,,
+Grid frequency (Hz),float64,99.8,0.0,49.99,50.196
+"Grid frequency, Max (Hz)",float64,76.1,0.0,50.048,50.319
+"Grid frequency, Min (Hz)",float64,76.1,0.0,49.927,50.177
+"Grid frequency, Standard deviation (Hz)",float64,76.1,0.0,0.036,24.901
+Equivalent Full Load Hours (s),float64,100.0,0.0,176.714,885.073
+Equivalent Full Load Hours counter (s),float64,0.0,,,
+Production Factor,float64,99.8,0.0,1.002,5.432
+Performance Index,float64,98.9,0.0,1.01,5.432
+Apparent power (kVA),float64,99.8,0.0,641.795,2160.014
+"Apparent power, Max (kVA)",float64,0.0,,,
+"Apparent power, Min (kVA)",float64,0.0,,,
+"Apparent power, StdDev (kVA)",float64,0.0,,,
+Cable windings from calibration point,float64,95.4,-1.857,0.205,1.912
+Metal particle count,int64,100.0,0.0,0.001,3.0
+Metal particle count counter,float64,95.4,660.0,675.201,687.0
+"Cable windings from calibration point, Max",float64,0.0,,,
+"Cable windings from calibration point, Min",float64,0.0,,,
+"Cable windings from calibration point, StdDev",float64,0.0,,,
+Drive train acceleration (mm/ss),float64,99.8,0.32,8.045,33.13
+Tower Acceleration X (mm/ss),float64,95.4,2.88,52.893,234.376
+Tower Acceleration y (mm/ss),float64,95.4,3.544,27.928,219.41
+"Tower Acceleration X, Min (mm/ss)",float64,0.0,,,
+"Tower Acceleration X, Max (mm/ss)",float64,0.0,,,
+"Tower Acceleration Y, Min (mm/ss)",float64,0.0,,,
+"Tower Acceleration Y, Max (mm/ss)",float64,0.0,,,
+"Drive train acceleration, Max (mm/ss)",float64,0.0,,,
+"Drive train acceleration, Min (mm/ss)",float64,0.0,,,
+"Drive train acceleration, StdDev (mm/ss)",float64,0.0,,,
+"Tower Acceleration X, StdDev (mm/ss)",float64,0.0,,,
+"Tower Acceleration Y, StdDev (mm/ss)",float64,0.0,,,

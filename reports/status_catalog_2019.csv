@@ -1,0 +1,89 @@
+Status,Code,Message,iec,entries,turbines,with_end,total_hours,median_min
+Communication,9997,Data communication unavailable,(none),58,6,58.0,468.4,31.6
+Informational,0,System OK,Full Performance,7145,6,5.0,3.6,27.1
+Informational,10,Wind < start wind,Out of Environmental Specification,6389,6,6389.0,84.6,0.8
+Informational,65,Absence of wind during run-up,Out of Environmental Specification,381,6,381.0,14.7,2.3
+Informational,1552,Gearbox warm-up stage,Full Performance,19,6,19.0,1.2,2.9
+Informational,2910,Manual operation generator fan 1,Full Performance,3,2,3.0,11.4,288.2
+Informational,3591,Transient voltage peak,Full Performance,6,6,6.0,0.0,0.0
+Informational,3835,Cable panel breaker open,(none),2,2,2.0,4.5,136.4
+Informational,6410,Manual yaw,Full Performance,74,6,74.0,133.3,68.2
+Informational,6542,Reset of icing st. cd. possible,Full Performance,1,1,1.0,7.7,464.6
+Informational,7013,Alarm call test,Full Performance,2,1,2.0,0.0,0.1
+Informational,7018,Parameter update active,Full Performance,6,6,6.0,0.1,1.0
+Informational,8405,Fallback setpoints active,(none),11,5,11.0,13.2,20.6
+Informational,100010,Brake program 200,Full Performance,86,6,0.0,0.0,
+Informational,100020,Brake program 190,(none),1,1,0.0,0.0,
+Informational,100030,Brake program 180,Technical Standby,337,6,0.0,0.0,
+Informational,100035,Brake program 170,Full Performance,123,6,0.0,0.0,
+Informational,100040,Brake program 75,Full Performance,67,6,0.0,0.0,
+Informational,100050,Brake program 60,Technical Standby,161,6,0.0,0.0,
+Informational,100060,Brake program 52,Full Performance,277,6,0.0,0.0,
+Informational,100070,Brake program 50,Out of Environmental Specification,6646,6,0.0,0.0,
+Informational,100100,Open disc brake,Full Performance,35,6,0.0,0.0,
+Informational,100110,Bypass limit switches,Full Performance,487,6,0.0,0.0,
+Informational,100130,Automatic start-up,Full Performance,7299,6,0.0,0.0,
+Informational,100140,System test 1,Technical Standby,413,6,0.0,0.0,
+Informational,100150,System test 2,Technical Standby,388,6,0.0,0.0,
+Informational,100160,System test 3,Technical Standby,385,6,0.0,0.0,
+Informational,100180,Run-up,Technical Standby,7196,6,0.0,0.0,
+Informational,100190,Mains connection,Full Performance,6726,6,0.0,0.0,
+Informational,100200,Mains run-up,Full Performance,6711,6,0.0,0.0,
+Informational,100210,Mains operation,Full Performance,6705,6,0.0,0.0,
+Stop,20,Manual stop - on site,Scheduled Maintenance,51,6,51.0,102.9,63.8
+Stop,21,Manual stop - remote,Forced outage,16,6,16.0,55.9,269.4
+Stop,25,Manual stop without login,Scheduled Maintenance,11,6,11.0,13.9,81.1
+Stop,63,Deviation of wind direction>45°,Out of Environmental Specification,1,1,1.0,0.0,2.8
+Stop,68,Deviation winddirection > 60°,Out of Environmental Specification,6,5,6.0,0.3,2.8
+Stop,100,Safety chain open,Forced outage,3,1,3.0,1.3,33.0
+Stop,210,Manual brake,Scheduled Maintenance,2,1,2.0,5.5,165.7
+Stop,700,Batt. undervoltage/overvoltage,Forced outage,1,1,1.0,31.4,1882.8
+Stop,707,Stop battery test,Technical Standby,2,2,2.0,0.1,1.8
+Stop,710,Battery test,Technical Standby,299,6,299.0,11.9,2.3
+Stop,815,Rotor overspeed nacelle,Forced outage,1,1,1.0,0.4,21.3
+Stop,1070,Drive train monitor level 2,Technical Standby,4,2,4.0,0.1,1.2
+Stop,2810,Service generator brushes,Forced outage,2,2,2.0,9.5,286.2
+Stop,3000,Frequency converter not ready,Forced outage,14,6,14.0,16.7,2.0
+Stop,3125,Timeout ready for connection,Out of Electrical Specification,8,2,8.0,44.5,1.7
+Stop,3500,Grid loss,Out of Electrical Specification,23,6,23.0,2.7,3.4
+Stop,3570,Grid error,Out of Electrical Specification,5,5,5.0,1.4,13.9
+Stop,3585,Maximum grid frequency,Forced outage,1,1,1.0,0.4,22.3
+Stop,3590,Overvoltage,Out of Electrical Specification,6,6,6.0,1.7,16.4
+Stop,4510,Tower oscillation Y level 1,Forced outage,11,4,11.0,2.9,16.0
+Stop,4520,Tower oscillation X level 1,Forced outage,6,3,6.0,1.1,10.7
+Stop,4530,Tower oscillation Y level 2,Forced outage,2,2,2.0,0.5,15.5
+Stop,4540,Tower oscillation X level 2,Forced outage,14,5,14.0,3.2,15.7
+Stop,5510,Low hydraulic pressure,Forced outage,2,1,2.0,0.3,8.1
+Stop,5760,Hydraulic oil flushing operation,Technical Standby,56,6,56.0,9.3,10.0
+Stop,6120,Uncontrolled yaw movement,Forced outage,1,1,1.0,0.1,5.7
+Stop,6130,Yaw speed high,Forced outage,1,1,1.0,0.1,5.7
+Stop,6200,Cable autounwind,Technical Standby,122,6,122.0,30.6,12.7
+Stop,6620,Vane defect,Forced outage,1,1,1.0,0.0,2.4
+Stop,6690,Icing (stop),Out of Environmental Specification,1,1,1.0,9.7,584.6
+Warning,59,Max. acceleration,Full Performance,8,4,8.0,0.1,0.5
+Warning,682,Limit switch error 95° axis 2,Forced outage,1,1,1.0,0.3,16.2
+Warning,716,Battery charge cycle axis 1 error,(none),38,6,38.0,18.1,12.2
+Warning,717,Battery charge cycle axis 2 error,(none),38,6,38.0,18.1,12.2
+Warning,718,Battery charge cycle axis 3 error,(none),38,6,38.0,18.1,12.2
+Warning,720,Pitch batteries charging cycle,(none),1,1,1.0,0.1,3.4
+Warning,785,Error brake resistor CHP,Full Performance,4,4,4.0,8.0,120.1
+Warning,1860,Oil filter gear choked,(none),3,1,3.0,1974.4,55909.3
+Warning,2000,Brake pads worn,(none),1,1,1.0,5.4,324.5
+Warning,2125,Timeout brake closed,(none),38,6,38.0,64.1,47.1
+Warning,2550,Overload generator fan 1,Forced outage,23,6,23.0,42.2,78.1
+Warning,2650,Overload generator fan 2,Forced outage,23,6,23.0,42.3,78.0
+Warning,2655,Overload generator fan 3,Forced outage,23,6,23.0,42.3,78.0
+Warning,2674,Overload generator heating,(none),14,6,14.0,29.8,89.4
+Warning,3160,Cable overload,(none),1,1,1.0,0.5,30.3
+Warning,3205,PT100 converter inlet temperature defect,(none),1,1,1.0,0.5,31.5
+Warning,3220,Reduced power converter,(none),1,1,1.0,0.5,30.8
+Warning,3870,Overload transformer fan outlet air,Full Performance,1,1,1.0,0.5,30.4
+Warning,4600,PT100 base box temp. defect,(none),1,1,1.0,0.5,31.5
+Warning,4607,Heating/fan base box faulty,(none),1,1,1.0,0.5,31.5
+Warning,5000,Breakdown obstacle light,(none),5,1,5.0,394.1,1443.5
+Warning,5720,Brake accumulator defect,(none),23,6,23.0,22.4,0.4
+Warning,6052,High yaw motor current,Full Performance,195,6,195.0,0.6,0.2
+Warning,6054,Easy yaw,Full Performance,18,6,18.0,0.4,1.0
+Warning,6622,Vane 2 defect,Full Performance,1,1,1.0,0.0,1.4
+Warning,6682,Icing (dev. electr. power),(none),1,1,1.0,9.7,584.6
+Warning,8400,Comm. failure FPM,Full Performance,11,5,11.0,13.2,20.6

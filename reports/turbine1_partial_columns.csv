@@ -1,0 +1,202 @@
+column,non_null_pct,first_valid,last_valid
+Reactive Energy Export counter (kvarh),0.1,2019-01-04 04:10:00,2019-12-22 06:00:00
+Potential power estimated (kW),0.2,2019-01-10 11:10:00,2019-11-21 02:50:00
+Energy Import counter (kWh),3.5,2019-01-01 01:00:00,2019-12-29 07:00:00
+"Voltage L2 / V, Min (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Voltage L2 / V, Max (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Hub temperature, standard deviation (°C)",49.4,2019-07-04 09:40:00,2019-12-31 23:50:00
+"Voltage L1 / U, Max (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Voltage L1 / U, Min (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Hub temperature, min (°C)",49.4,2019-07-04 09:40:00,2019-12-31 23:50:00
+"Voltage L2 / V, Standard deviation (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Hub temperature, max (°C)",49.4,2019-07-04 09:40:00,2019-12-31 23:50:00
+"Current L3 / W, min (A)",49.4,2019-07-04 07:50:00,2019-12-31 23:50:00
+"Voltage L3 / W, Max (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Voltage L3 / W, Standard deviation (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Voltage L3 / W, Min (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Voltage L1 / U, Standard deviation (V)",49.4,2019-07-04 08:50:00,2019-12-31 23:50:00
+"Current L2 / V, min (A)",49.4,2019-07-04 07:50:00,2019-12-31 23:50:00
+"Current L2 / V, StdDev (A)",49.4,2019-07-04 07:50:00,2019-12-31 23:50:00
+"Current L3 / W, StdDev (A)",49.4,2019-07-04 07:50:00,2019-12-31 23:50:00
+"Gear oil temperature, Standard deviation (°C)",49.9,2019-07-02 06:40:00,2019-12-31 23:50:00
+"Gear oil temperature, Min (°C)",49.9,2019-07-02 06:40:00,2019-12-31 23:50:00
+"Gear oil temperature, Max (°C)",49.9,2019-07-02 06:40:00,2019-12-31 23:50:00
+"Current L2 / V, max (A)",49.9,2019-07-02 06:50:00,2019-12-31 23:50:00
+"Current L3 / W, max (A)",49.9,2019-07-02 06:50:00,2019-12-31 23:50:00
+"Nacelle temperature, Standard deviation (°C)",51.3,2019-06-27 10:10:00,2019-12-31 23:50:00
+"Generator bearing rear temperature, Std (°C)",75.6,2019-03-14 10:00:00,2019-12-31 23:50:00
+"Generator bearing front temperature, Std (°C)",75.6,2019-03-14 10:00:00,2019-12-31 23:50:00
+"Blade angle (pitch position) C, Max (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Blade angle (pitch position) C, Standard deviation (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Grid frequency, Min (Hz)",76.1,2019-03-12 09:20:00,2019-12-31 23:50:00
+"Blade angle (pitch position) B, Min (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Blade angle (pitch position) B, Standard deviation (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Grid frequency, Max (Hz)",76.1,2019-03-12 09:20:00,2019-12-31 23:50:00
+"Blade angle (pitch position) A, Standard deviation (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Blade angle (pitch position) C, Min (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Blade angle (pitch position) A, Max (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Blade angle (pitch position) B, Max (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+"Grid frequency, Standard deviation (Hz)",76.1,2019-03-12 09:20:00,2019-12-31 23:50:00
+"Blade angle (pitch position) A, Min (°)",76.1,2019-03-12 09:30:00,2019-12-31 23:50:00
+Energy Export counter (kWh),87.2,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Production-based IEC B.2.3) (kWh),87.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production-based IEC B.2.3 (Users View),87.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Reactive Energy Import counter (kvarh),88.2,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed Sensor 1, Minimum (m/s)",94.3,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed Sensor 1, Maximum (m/s)",95.2,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed Sensor 1, Standard deviation (m/s)",95.2,2019-01-01 00:00:00,2019-12-31 23:50:00
+Nacelle ambient temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Rear bearing temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Transformer temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Gear oil inlet temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Gear oil temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Rear bearing temperature, Min (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Front bearing temperature, Standard deviation (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Nacelle temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed, Minimum (m/s)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed, Maximum (m/s)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind direction, Standard deviation (°)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Density adjusted wind speed (m/s),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed Sensor 2, Maximum (m/s)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Nacelle position, Minimum (°)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind direction, Minimum (°)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Nacelle position, Standard deviation (°)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed Sensor 2, Minimum (m/s)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed, Standard deviation (m/s)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Grid voltage, Min (V)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Grid voltage, Max (V)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Grid voltage, Standard deviation (V)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Front bearing temperature, Min (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Transformer cell temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Front bearing temperature, Max (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Rear bearing temperature, Max (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator bearing front temperature, Min (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Reactive power, Max (kvar)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Reactive power, Min (kvar)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Reactive power, Standard deviation (kvar)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Front bearing temperature (°C),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Power factor (cosphi), Max",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Power factor (cosphi), Min",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Power factor (cosphi), Standard deviation",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Rear bearing temperature, Standard deviation (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Vane position 1+2 (°),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Nacelle position, Maximum (°)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind direction, Maximum (°)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Tower Acceleration y (mm/ss),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Metal particle count counter,95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Tower Acceleration X (mm/ss),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Cable windings from calibration point,95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator RPM, Max (RPM)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Blade angle (pitch position) A (°),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Rotor speed, Standard deviation (RPM)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Rotor speed, Max (RPM)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator RPM, Standard deviation (RPM)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator RPM, Min (RPM)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Blade angle (pitch position) C (°),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Blade angle (pitch position) B (°),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Yaw bearing angle (°),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Current L1 / U (A),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Current L2 / V (A),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Current L1 / U, StdDev (A)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Gearbox speed (RPM),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Current L1 / U, max (A)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Current L3 / W (A),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Current L1 / U, min (A)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Rotor speed, Min (RPM)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Nacelle temperature, Max (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Nacelle temperature, Min (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator bearing rear temperature, Max (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator bearing rear temperature, Min (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Voltage L2 / V (V),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Voltage L3 / W (V),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Voltage L1 / U (V),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Generator bearing front temperature, Max (°C)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Power, Standard deviation (kW)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Power, Minimum (kW)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Turbine Power setpoint (kW),95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Power, Maximum (kW)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+"Wind speed Sensor 2, Standard deviation (m/s)",95.4,2019-01-01 00:00:00,2019-12-31 23:50:00
+Reactive Energy Export (kvarh),98.7,2019-01-01 00:00:00,2019-12-31 23:50:00
+Performance Index,98.9,2019-01-01 00:00:00,2019-12-31 23:50:00
+Energy Import (kWh),99.6,2019-01-01 00:00:00,2019-12-31 23:50:00
+Wind speed Sensor 1 (m/s),99.6,2019-01-01 00:00:00,2019-12-31 23:50:00
+Potential power secondary reference turbines (kW),99.6,2019-01-01 00:00:00,2019-12-31 23:50:00
+Time-based IEC B.2.4 (Users View),99.7,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Time-based IEC B.2.4) (kWh),99.7,2019-01-01 00:00:00,2019-12-31 23:50:00
+Wind speed (m/s),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Wind speed Sensor 2 (m/s),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Wind direction (°),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Nacelle position (°),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Potential power default PC (kW),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Power (kW),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Potential power learned PC (kW),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Cascading potential power for performance (kW),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Performance (kWh),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Time-based IEC B.3.2) (kWh),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Production-based IEC B.3.2) (kWh),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+CPU temperature (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Generator bearing rear temperature (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Stator temperature 1 (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Ambient temperature (converter) (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Generator bearing front temperature (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Temp. top box (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Hub temperature (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Rotor bearing temp (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Power factor (cosphi),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Gear oil pump pressure (bar),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Grid frequency (Hz),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Time-based IEC B.3.2 (Manufacturers View),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production-based IEC B.3.2 (Manufacturers View),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Rotor speed (RPM),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Gear oil inlet pressure (bar),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Motor current axis 2 (A),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Motor current axis 3 (A),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Apparent power (kVA),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Drive train acceleration (mm/ss),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Temperature motor axis 3 (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Grid voltage (V),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Temperature motor axis 1 (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Potential power MPC (kW),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Reactive power (kvar),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Temperature motor axis 2 (°C),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Motor current axis 1 (A),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Generator RPM (RPM),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production Factor,99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Grid current (A),99.8,2019-01-01 00:00:00,2019-12-31 23:50:00
+Potential power primary reference turbines (kW),99.9,2019-01-01 00:00:00,2019-12-31 23:50:00
+Available Capacity for Production (kW),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Shadow) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Noise) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Production-based IEC B.2.2) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Technical) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Sector Management) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Ice) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Birds) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Bats) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Downtime (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Energy Theoretical (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Marketing) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Total) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Grid Constraint) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Downtime and Curtailment Total (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Boat Action) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Compensated Lost Production (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Cascading potential power (kW),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Potential power reference turbines (kW),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production to Curtailment (Grid) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Time-based IEC B.2.3) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Contractual) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production (Time-based IEC B.2.2) (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Energy Export (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Lost Production Total (kWh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Time-based Contractual Avail.,100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Capacity factor,100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production-based Contractual Avail.,100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production-based System Avail.,100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Time-based System Avail.,100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production-based IEC B.2.2 (Users View),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Reactive Energy Import (kvarh),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Production-based System Avail. (virtual),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Time-based IEC B.2.2 (Users View),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Time-based IEC B.2.3 (Users View),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
+Equivalent Full Load Hours (s),100.0,2019-01-01 00:00:00,2019-12-31 23:50:00
