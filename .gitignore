@@ -1,6 +1,21 @@
+# Raw and generated datasets — do not upload
 data/raw/
 data/interim/
 data/processed/
+
+# Python virtual environment
 .venv/
+
+# Python cache and notebook checkpoints
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
+
+# Environment secrets
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
